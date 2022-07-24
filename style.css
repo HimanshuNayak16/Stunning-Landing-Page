@@ -127,6 +127,7 @@ h1 span {
 }
 .card:hover {
   background-color: #fff;
+  cursor: pointer;
 }
 .card:hover .card-checkbox-name img {
   content: url("./images/tick-blue.png");
